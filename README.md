@@ -1,8 +1,8 @@
-#Summary
+## Summary
 growthplot is a project made for the App4Kids Hackathon event. It uses the Python Django web framework and allows parents to upload children's measurement data.
 
 
-#Setup
+## Setup
 1. Install Python on your machine. You can find the latest version [here](https://www.python.org/downloads/).
 2. (Optional) Install [Apache](http://httpd.apache.org/) and [mod_wsgi](http://www.modwsgi.org/)
 3. (Optional) Start the database. 
